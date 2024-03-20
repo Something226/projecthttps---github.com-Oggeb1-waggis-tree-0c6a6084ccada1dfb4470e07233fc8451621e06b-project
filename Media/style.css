@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background: rgb(94, 203, 228);
+    margin: 0;
+    padding: 0;
+}
+
+footer {
+    background: rgb(145, 209, 224);
+}
